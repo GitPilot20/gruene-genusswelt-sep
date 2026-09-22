@@ -67,6 +67,11 @@ h4 {
     padding-right: 4rem;
 }
 
+/* margins */
+.mb {
+    margin-bottom: 1rem;
+}
+
 /* Vertikal */
 .py-1 {
     padding-top: 1rem;
